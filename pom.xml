@@ -718,7 +718,7 @@ limitations under the License.
       <dependency>
         <groupId>org.apache.thrift</groupId>
         <artifactId>libthrift</artifactId>
-        <version>0.6.1</version>
+        <version>0.14.0</version>
         <exclusions>
           <exclusion>
             <groupId>javax.servlet</groupId>
